@@ -72,7 +72,7 @@
     <img
       align="center"
       height="120em"
-      src="https://github-readme-stats.vercel.app/api/pin/?username=LuanderFarias&repo=LuanderFarias&theme=tokyonight">
+      src="https://github-readme-stats.vercel.app/api/pin/?username=hydrasombra&repo=hydrasombra&theme=tokyonight">
     </img>
   </a>
 </p>
@@ -97,7 +97,7 @@
       align="center"
       src="https://img.shields.io/badge/Discord-1C1C1C?style=for-the-badge&logo=discord&logoColor=00FFFF">
   </a> -->
-  <a href="https://www.linkedin.com/in/seu-usuario/">
+  <a href="https://www.linkedin.com/in/hydra-dev-3a3a87234/">
     <img
          align="center"
          src="https://img.shields.io/badge/LinkedIn-1C1C1C?style=for-the-badge&logo=linkedin&logoColor=00FFFF"

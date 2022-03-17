@@ -100,12 +100,12 @@
   <a href="https://www.linkedin.com/in/hydra-dev-3a3a87234/">
     <img
          align="center"
-         src="https://img.shields.io/badge/LinkedIn-1C1C1C?style=for-the-badge&logo=linkedin&logoColor=00FFFF"
+         src="https://img.shields.io/badge/LinkedIn-1C1C1C?style=for-the-badge&logo=linkedin&logoColor=blue"
   </a>
   <a href="https://www.youtube.com/channel/UCSshwiKzSTYM8HzCKSCVQDg">
     <img
       align="center"
-      src="https://img.shields.io/badge/YouTube-1C1C1C?style=for-the-badge&logo=youtube&logoColor=00FFFF"
+      src="https://img.shields.io/badge/YouTube-1C1C1C?style=for-the-badge&logo=youtube&logoColor=red"
     />
   </a>
 </p>

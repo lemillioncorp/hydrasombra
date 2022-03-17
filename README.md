@@ -1,9 +1,6 @@
-(https://avatars.githubusercontent.com/u/101800985?s=96&v=4)
-    <p align="center">
-      
-      <img src="https://avatars.githubusercontent.com/u/101800985?s=96&v=4" alt="vscode" width="100" height="100"/>
-   
-    </p>
+<p align="center">
+    <img src="https://c.tenor.com/ebCSctlynS0AAAAC/agents-of-shield-hydra.gif" alt="Logo da Hydra" width="100%" height="500"/>
+   </p>
 
   <p align="center">
    <a href="https://code.visualstudio.com/">
@@ -38,9 +35,9 @@
 <h4 align="center">
 <details>
 <summary>Mais...</summary>
-<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">Oi meu nome é [seu nome]</h1></img>
+<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">Oi meu nome é Hydra</h1></img>
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/seu-usuario">
     <img
       align="center"
@@ -66,12 +63,12 @@
     />
   </a>
 </a>
-</p>
+</p> -->
 
 <h3 align="center">Trabalhando em:</h3>
 
 <p align="center">
-  <a href="https://github.com/seu-usuario/seu-repositorio">
+  <a href="https://github.com/hydrasombra">
     <img
       align="center"
       height="120em"
@@ -83,34 +80,34 @@
 <h3 align="center">Sobre mim:</h3>
 
 <p align="center">
-  <a href="https://instagram.com/seu-usuario/">
+<!--   <a href="https://instagram.com/seu-usuario/">
     <img
       align="center"
       src="https://img.shields.io/badge/Instagram-1C1C1C?style=for-the-badge&logo=instagram&logoColor=00FFFF"
     />
-  </a>
-  <a href="https://twitter.com/seu-usuario">
+  </a> -->
+<!--   <a href="https://twitter.com/seu-usuario">
     <img
       align="center"
       src="https://img.shields.io/badge/Twitter-1C1C1C?style=for-the-badge&logo=twitter&logoColor=00FFFF"
     />
-  </a>
-  <a href="https://discord.gg/seu-server">
+  </a> -->
+<!--   <a href="https://discord.gg/seu-server">
     <img
       align="center"
       src="https://img.shields.io/badge/Discord-1C1C1C?style=for-the-badge&logo=discord&logoColor=00FFFF">
-  </a>
+  </a> -->
   <a href="https://www.linkedin.com/in/seu-usuario/">
     <img
          align="center"
          src="https://img.shields.io/badge/LinkedIn-1C1C1C?style=for-the-badge&logo=linkedin&logoColor=00FFFF"
   </a>
-  <a href="https://www.youtube.com/channel/link-do-canal">
+  <a href="https://www.youtube.com/channel/UCSshwiKzSTYM8HzCKSCVQDg">
     <img
       align="center"
       src="https://img.shields.io/badge/YouTube-1C1C1C?style=for-the-badge&logo=youtube&logoColor=00FFFF"
     />
   </a>
 </p>
-<h5 align="center">Seu @</h5>
+<h5 align="center">@hydradev</h5>
 </details>

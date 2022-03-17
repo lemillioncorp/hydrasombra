@@ -1,4 +1,9 @@
 (https://avatars.githubusercontent.com/u/101800985?s=96&v=4)
+    <p align="center">
+      
+      <img src="https://avatars.githubusercontent.com/u/101800985?s=96&v=4" alt="vscode" width="100" height="100"/>
+   
+    </p>
 
   <p align="center">
    <a href="https://code.visualstudio.com/">

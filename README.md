@@ -12,9 +12,6 @@
    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
    </a>
-   <a href="https://code.visualstudio.com/">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
-   </a>
    <a href="https://flutter.dev/">
       <img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/flutter_icon_130936.png" alt="nextjs" width="40" height="40"/>
    </a>
